@@ -45,5 +45,5 @@ public  class Market implements QueveBehaviour, MarketBehaviour{
 
     }
 
-    private final
+
 }
